@@ -1,4 +1,4 @@
-import {MainPage} from "./pageobjects/main.page";
+import {MainPage} from "./pageobjects/main.page.ts";
 import {browser} from "protractor";
 
 const mainPage: MainPage = new MainPage();
